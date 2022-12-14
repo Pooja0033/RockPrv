@@ -14,7 +14,7 @@ class script(object):
  𝐒𝐎𝐔𝐑𝐂𝐄 𝐂𝐎𝐃𝐄 𝐈𝐒 𝐍𝐎𝐓 𝐀𝐕𝐀𝐈𝐋𝐁𝐀𝐋𝐄
 
 <b>DEVS:</b>
-<a href=https://github.com/EvamariaTG/EvaMaria>𝙴𝚅𝙰 𝙼𝙰𝚁𝙸𝙰</a>"""
+<a href=https://t.me/KL_2335>ρ𝘳ꪖꪀꪖꪜ🧞‍♂️</a>"""
     MANUELFILTER_TXT = """Help: <b>Filters</b>
 
 - Filter is the feature were users can set automated replies for a particular keyword and EvaMaria will respond whenever a keyword is found the message
